@@ -1,4 +1,4 @@
 ybRhelp
 =======
 
-Some everyday helpeR fucntions
+Some everyday helpeR functions
