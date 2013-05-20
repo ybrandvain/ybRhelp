@@ -1,4 +1,3 @@
-
 R = h^2s
-theta = 4Ne_u
+theta = 4N_eu
 this line will cause a conflict
